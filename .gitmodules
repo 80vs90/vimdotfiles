@@ -1,0 +1,105 @@
+[submodule "chuck.vim"]
+	path = bundle/chuck.vim
+	url = https://github.com/wilsaj/chuck.vim
+[submodule "cocoa.vim.git"]
+	path = bundle/cocoa.vim.git
+	url = git://github.com/msanders/cocoa.vim.git
+[submodule "elm.vim"]
+	path = bundle/elm.vim
+	url = https://github.com/lambdatoast/elm.vim
+[submodule "erlang-motions.vim"]
+	path = bundle/erlang-motions.vim
+	url = https://github.com/edkolev/erlang-motions.vim
+[submodule "nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "nim.vim"]
+	path = bundle/nim.vim
+	url = https://github.com/zah/nim.vim
+[submodule "rust.vim.git"]
+	path = bundle/rust.vim.git
+	url = https://github.com/wting/rust.vim.git
+[submodule "slimux"]
+	path = bundle/slimux
+	url = https://github.com/epeli/slimux
+[submodule "slimv"]
+	path = bundle/slimv
+	url = https://github.com/kovisoft/slimv
+[submodule "swift.vim"]
+	path = bundle/swift.vim
+	url = https://github.com/keith/swift.vim
+[submodule "syntastic.git"]
+	path = bundle/syntastic.git
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "textutil.vim"]
+	path = bundle/textutil.vim
+	url = http://github.com/vim-scripts/textutil.vim
+[submodule "typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
+[submodule "vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "vim-clojure-static"]
+	path = bundle/vim-clojure-static
+	url = https://github.com/guns/vim-clojure-static
+[submodule "vim-elixir.git"]
+	path = bundle/vim-elixir.git
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "vimerl"]
+	path = bundle/vimerl
+	url = https://github.com/jimenezrick/vimerl
+[submodule "vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8
+[submodule "vim-fsharp"]
+	path = bundle/vim-fsharp
+	url = https://github.com/fsharp/vim-fsharp
+[submodule "vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go
+[submodule "vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule "vim-jdaddy"]
+	path = bundle/vim-jdaddy
+	url = https://github.com/tpope/vim-jdaddy
+[submodule "vim-jsx.git"]
+	path = bundle/vim-jsx.git
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "vim-niji.git"]
+	path = bundle/vim-niji.git
+	url = git://github.com/amdt/vim-niji.git
+[submodule "vim-racket"]
+	path = bundle/vim-racket
+	url = https://github.com/wlangstroth/vim-racket
+[submodule "vim-sensible.git"]
+	path = bundle/vim-sensible.git
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "vim-sleuth.git"]
+	path = bundle/vim-sleuth.git
+	url = git://github.com/tpope/vim-sleuth.git
+[submodule "vim-slime.git"]
+	path = bundle/vim-slime.git
+	url = git://github.com/jpalardy/vim-slime.git
+[submodule "vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vim-vinegar.git"]
+	path = bundle/vim-vinegar.git
+	url = git://github.com/tpope/vim-vinegar.git
+[submodule "vim-vividchalk"]
+	path = bundle/vim-vividchalk
+	url = https://github.com/tpope/vim-vividchalk
+[submodule "void.vim"]
+	path = bundle/void.vim
+	url = https://github.com/orthecreedence/void.vim
