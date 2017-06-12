@@ -105,3 +105,6 @@
 [submodule "bundle/void.vim"]
 	path = bundle/void.vim
 	url = https://github.com/orthecreedence/void.vim
+[submodule "bundle/vim-niji"]
+	path = bundle/vim-niji
+	url = https://github.com/losingkeys/vim-niji.git
