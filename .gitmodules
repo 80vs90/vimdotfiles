@@ -80,9 +80,6 @@
 	path = bundle/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors
 	ignore = dirty
-[submodule "bundle/vim-niji"]
-	path = bundle/vim-niji
-	url = git://github.com/amdt/vim-niji.git
 [submodule "bundle/vim-racket"]
 	path = bundle/vim-racket
 	url = https://github.com/wlangstroth/vim-racket
