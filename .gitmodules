@@ -1,22 +1,12 @@
 [submodule "bundle/chuck.vim"]
 	path = bundle/chuck.vim
 	url = https://github.com/wilsaj/chuck.vim
-[submodule "bundle/cocoa.vim"]
-	path = bundle/cocoa.vim
-	url = git://github.com/msanders/cocoa.vim.git
-[submodule "bundle/elm.vim"]
-	path = bundle/elm.vim
-	url = https://github.com/lambdatoast/elm.vim
 [submodule "bundle/erlang-motions.vim"]
 	path = bundle/erlang-motions.vim
 	url = https://github.com/edkolev/erlang-motions.vim
 [submodule "bundle/nerdcommenter"]
 	path = bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
-[submodule "bundle/nim.vim"]
-	path = bundle/nim.vim
-	url = https://github.com/zah/nim.vim
-	ignore = dirty
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = https://github.com/wting/rust.vim.git
@@ -26,9 +16,6 @@
 [submodule "bundle/slimv"]
 	path = bundle/slimv
 	url = https://github.com/kovisoft/slimv
-[submodule "bundle/swift.vim"]
-	path = bundle/swift.vim
-	url = https://github.com/keith/swift.vim
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
@@ -54,9 +41,6 @@
 [submodule "bundle/vim-flake8"]
 	path = bundle/vim-flake8
 	url = https://github.com/nvie/vim-flake8
-[submodule "bundle/vim-fsharp"]
-	path = bundle/vim-fsharp
-	url = https://github.com/fsharp/vim-fsharp
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = git://github.com/tpope/vim-fugitive.git
