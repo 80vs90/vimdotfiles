@@ -33,7 +33,7 @@ set shiftwidth=4
 set nu
 set modeline
 
-let g:airline_theme = 'jellybeans'
+let g:airline_theme = 'serene'
 
 let g:flake8_ignore="W0232"
 
